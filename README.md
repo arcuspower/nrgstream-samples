@@ -19,8 +19,5 @@ It is important you release the token after using it because each user account c
 
 ## Rate limiting on the API
 
-Calls to GroupExtracts and StreamData are rate limited.  The default call rate is limited to 5 calls per second, but this limit can be increased based upon your subscription level.  The API may return status 429 (Too many requests) or 400 (Bad Request) with the text "Access Denied".  
-
-
-Happy hacking!
+Calls to GroupExtracts and StreamData are rate limited.  The default call rate is limited to 5 calls per second.  The API may return status 429 (Too many requests) or 400 (Bad Request) with the text "Access Denied".
 
