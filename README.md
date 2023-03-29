@@ -1,9 +1,8 @@
 # Welcome
 
-Here you will find code samples for using the NRGStream API to access data from the platform.  These samples assume familiarity with the NRGStream service in general (such as the concepts of streams, data options, extracts) and mostly focus on the actual mechanics of authenticating and using the API to retrieve data.  
+Here you will find code samples for using the Nrgstream API to access data from the platform.  These samples assume familiarity with the Nrgstream service in general (such as the concepts of streams, data options, extracts) and mostly focus on the actual mechanics of authenticating and using the API to retrieve data.  
 
 Code in this repository will be kept up to date with API releases. In the event that this code does NOT complete for some reason - raise a support ticket according to your subscription agreement and it will be brought into compliance in a reasonable time.
-
 
 # Authentication and General Flow
 
